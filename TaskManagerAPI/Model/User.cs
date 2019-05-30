@@ -29,6 +29,6 @@ namespace TaskManagerAPI.Model
         [BsonElement("EmployeeID")]
         public string EmployeeId { get; set; }
         [BsonElement("BornDate")]
-        public DateTime BornDate { get; set; }
+        public string BornDate { get; set; }
     }
 }

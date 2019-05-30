@@ -11,6 +11,9 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using TaskManagerAPI;
+using TaskManagerAPI.Context;
+using TaskManagerAPI.Interfaces;
+using TaskManagerAPI.Repository;
 
 namespace TaskManagerAPI
 {
@@ -34,8 +37,8 @@ namespace TaskManagerAPI
                         option.ConnectionString = Configuration.GetSection("MongoDb:ConnectionString").Value;
                         option.Database = Configuration.GetSection("MongoDb:Database").Value;
                     });
-
-                        
+            services.AddTransient<IUser, UserContext>();
+            services.AddTransient<IUserRepository, UserRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -1,0 +1,12 @@
+> db.Users.insert(
+{Username: "Kursiel", 
+Email: "kevin.cascante.06@gmail.com", 
+Password: "1706Kyge", 
+Name: "Kevin", 
+lastName: "Cascante", 
+Cedula: "504020443", 
+Team: "Azure App Services", 
+EmployeeID: "01122", 
+BornDate: "06/01/1995"})
+WriteResult({ "nInserted" : 1 })
+> db.Users.find().pretty()

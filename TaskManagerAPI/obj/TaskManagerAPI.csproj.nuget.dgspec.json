@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kursiel\\source\\repos\\TaskManagerAPI\\TaskManagerAPI\\TaskManagerAPI.csproj": {}
+    "C:\\Users\\kursiel\\Documents\\GitHub\\TaskManagerApi\\TaskManagerAPI\\TaskManagerAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kursiel\\source\\repos\\TaskManagerAPI\\TaskManagerAPI\\TaskManagerAPI.csproj": {
+    "C:\\Users\\kursiel\\Documents\\GitHub\\TaskManagerApi\\TaskManagerAPI\\TaskManagerAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kursiel\\source\\repos\\TaskManagerAPI\\TaskManagerAPI\\TaskManagerAPI.csproj",
+        "projectUniqueName": "C:\\Users\\kursiel\\Documents\\GitHub\\TaskManagerApi\\TaskManagerAPI\\TaskManagerAPI.csproj",
         "projectName": "TaskManagerAPI",
-        "projectPath": "C:\\Users\\kursiel\\source\\repos\\TaskManagerAPI\\TaskManagerAPI\\TaskManagerAPI.csproj",
+        "projectPath": "C:\\Users\\kursiel\\Documents\\GitHub\\TaskManagerApi\\TaskManagerAPI\\TaskManagerAPI.csproj",
         "packagesPath": "C:\\Users\\kursiel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kursiel\\source\\repos\\TaskManagerAPI\\TaskManagerAPI\\obj\\",
+        "outputPath": "C:\\Users\\kursiel\\Documents\\GitHub\\TaskManagerApi\\TaskManagerAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,6 +57,10 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
             },
             "MongoDB.Driver": {
               "target": "Package",
