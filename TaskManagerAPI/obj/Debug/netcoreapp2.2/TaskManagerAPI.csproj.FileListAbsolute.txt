@@ -1,0 +1,11 @@
+C:\Users\kursiel\source\repos\TaskManagerAPI\TaskManagerAPI\bin\Debug\netcoreapp2.2\TaskManagerAPI.deps.json
+C:\Users\kursiel\source\repos\TaskManagerAPI\TaskManagerAPI\bin\Debug\netcoreapp2.2\TaskManagerAPI.runtimeconfig.json
+C:\Users\kursiel\source\repos\TaskManagerAPI\TaskManagerAPI\bin\Debug\netcoreapp2.2\TaskManagerAPI.runtimeconfig.dev.json
+C:\Users\kursiel\source\repos\TaskManagerAPI\TaskManagerAPI\bin\Debug\netcoreapp2.2\TaskManagerAPI.dll
+C:\Users\kursiel\source\repos\TaskManagerAPI\TaskManagerAPI\obj\Debug\netcoreapp2.2\TaskManagerAPI.csprojAssemblyReference.cache
+C:\Users\kursiel\source\repos\TaskManagerAPI\TaskManagerAPI\obj\Debug\netcoreapp2.2\TaskManagerAPI.csproj.CoreCompileInputs.cache
+C:\Users\kursiel\source\repos\TaskManagerAPI\TaskManagerAPI\obj\Debug\netcoreapp2.2\TaskManagerAPI.RazorAssemblyInfo.cache
+C:\Users\kursiel\source\repos\TaskManagerAPI\TaskManagerAPI\obj\Debug\netcoreapp2.2\TaskManagerAPI.RazorAssemblyInfo.cs
+C:\Users\kursiel\source\repos\TaskManagerAPI\TaskManagerAPI\obj\Debug\netcoreapp2.2\TaskManagerAPI.AssemblyInfoInputs.cache
+C:\Users\kursiel\source\repos\TaskManagerAPI\TaskManagerAPI\obj\Debug\netcoreapp2.2\TaskManagerAPI.AssemblyInfo.cs
+C:\Users\kursiel\source\repos\TaskManagerAPI\TaskManagerAPI\obj\Debug\netcoreapp2.2\TaskManagerAPI.RazorTargetAssemblyInfo.cache
